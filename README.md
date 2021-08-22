@@ -13,8 +13,7 @@ I am an avid problem solver with my main inclination towards Algorithms. I also 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/rajarshisg);
 - 📫 How to reach me: rajarshisengupta50@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
 
@@ -31,7 +30,7 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajarshisg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshisg&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
