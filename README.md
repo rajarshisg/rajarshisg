@@ -6,7 +6,7 @@
 
 I am an aspiring software engineer currently pursuing my undergraduate studies in Computer Science & Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar, India.
 
-I am an avid problem solver with my main inclination towards Algorithms. I also have a decent knowledge of Back End Development with Node.JS. Most of my project work is in this domain only, you can check my repositories for them. 
+I am an avid problem solver with my main inclination towards Algorithms. I also have a decent knowledge of Back End Development with Node.JS. Most of my project work is in this domain only. You can check my repositories for them. 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
@@ -14,6 +14,7 @@ I am an avid problem solver with my main inclination towards Algorithms. I also 
 **Talking about Personal Stuffs:**
 
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/rajarshisg);
+- 🚀 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
 - 📫 How to reach me: rajarshisengupta50@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
 
