@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajarshisg.rajarshisg)
 
-I am an aspiring software engineer currently pursuing my undergraduate studies in Computer Science & Engineering @[KIIT, Bhubaneswar](https://kiit.ac.in/).
+I am an aspiring software engineer currently pursuing my undergraduate studies in Computer Science & Engineering [@KIIT, Bhubaneswar](https://kiit.ac.in/).
 
 My primary interest lies in Algorithms and Problem Solving. Talking about development I mostly on work full-stack web development with Node.JS. You can checkout my projects, and don't forget to give a 🌟 if you like them.
 
