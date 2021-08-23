@@ -4,18 +4,18 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajarshisg.rajarshisg)
 
-I am an aspiring software engineer currently pursuing my undergraduate studies in Computer Science & Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar, India.
+I am an aspiring software engineer currently pursuing my undergraduate studies in Computer Science & Engineering @[KIIT, Bhubaneswar](https://kiit.ac.in/).
 
-I am an avid problem solver with my main inclination towards Algorithms. I also have a decent knowledge of Back End Development with Node.JS. Most of my project work is in this domain only. You can check my repositories for them. 
+My primary interest lies in Algorithms and Problem Solving. Talking about development I mostly on work full-stack web development with Node.JS. You can checkout my projects, and don't forget to give a 🌟 if you like them.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="300" height="200" />
   
 
 **Talking about Personal Stuffs:**
 
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/rajarshisg);
--  :ghost:   I'm planning to start learning React.JS soon.
-- 🚀 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
+- 🚀 I’m currently learning Data Structures and Algorithms on [Leetcode](https://leetcode.com/rajarshisg)
+- 🤓   I'm planning to start learning React.JS soon.
+- 💻 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
 - 📫 How to reach me: rajarshisengupta50@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
 
