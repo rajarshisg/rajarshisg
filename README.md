@@ -8,7 +8,7 @@ I am an aspiring software engineer currently pursuing my undergraduate studies i
 
 I am an avid problem solver with my main inclination towards Algorithms. I also have a decent knowledge of Back End Development with Node.JS. Most of my project work is in this domain only. You can check my repositories for them. 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="300" height="200" />
   
 
 **Talking about Personal Stuffs:**
