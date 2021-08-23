@@ -6,7 +6,7 @@
 
 I am an aspiring software engineer currently pursuing my undergraduate studies in Computer Science & Engineering [@KIIT, Bhubaneswar](https://kiit.ac.in/).
 
-My primary interest lies in Algorithms and Problem Solving. Talking about development I mostly on work full-stack web development with Node.JS. You can checkout my projects, and don't forget to give a 🌟 if you like them.
+My primary interest lies in Algorithms and Problem Solving. Talking about development, I mostly on work full-stack web development with Node.JS. You can checkout my projects, and don't forget to give a 🌟 if you like them.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="300" height="200" />
   
@@ -24,6 +24,6 @@ My primary interest lies in Algorithms and Problem Solving. Talking about develo
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajarshisg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&emsp;&emsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshisg&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajarshisg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&emsp;&emsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshisg&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
