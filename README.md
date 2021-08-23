@@ -21,14 +21,6 @@ I am an avid problem solver with my main inclination towards Algorithms. I also 
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
