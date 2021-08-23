@@ -14,6 +14,7 @@ I am an avid problem solver with my main inclination towards Algorithms. I also 
 **Talking about Personal Stuffs:**
 
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/rajarshisg);
+-  :ghost:   I'm planning to start learning React.JS soon.
 - 🚀 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
 - 📫 How to reach me: rajarshisengupta50@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
