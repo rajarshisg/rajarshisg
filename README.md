@@ -12,10 +12,9 @@ My primary interest lies in Algorithms and Problem Solving. Talking about develo
   
 
 **Talking about Personal Stuffs:**
-
-- 🚀 I’m currently learning Data Structures and Algorithms on [Leetcode](https://leetcode.com/rajarshisg)
-- 🤓   I'm planning to start learning React.JS soon.
-- 💻 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
+- 💻 I'm currently working as a Software Engineering Intern at [Zluri](https://www.zluri.com/)
+- 🚀 I actively practice Data Structures and Algorithms on [Leetcode](https://leetcode.com/rajarshisg)
+-  🤓 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
 - 📫 How to reach me: rajarshisengupta50@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
 
