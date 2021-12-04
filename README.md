@@ -16,7 +16,7 @@ My primary interest lies in Algorithms and Problem Solving. Talking about develo
 - 🚀 I actively practice Data Structures and Algorithms on [Leetcode](https://leetcode.com/rajarshisg)
 -  🤓 Ocassionally, I participate in Coding Competitions on [CodeChef](https://www.codechef.com/users/rajcodes)
 - 📫 How to reach me: rajarshisengupta50@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
+- 📝 Here's my [Resume](https://drive.google.com/file/d/1ant-ApcfG4kT3r1jvPdMZ08zwReqEmOH/view).
 
 </br>
 
